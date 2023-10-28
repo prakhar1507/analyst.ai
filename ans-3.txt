@@ -1,0 +1,10 @@
+
+ 3. We have a list of 1L company names, need to find linkedin company links of these profiles, how to go about this?
+
+
+ans-3 Linkedin official API is one of the best and ethical way to do this task.
+a) we will parse through the company names that were provided.
+
+b) Then we will use the API's search functionality to look for specific company.
+
+c) Now we fetch the company profile url and save the data in desired format(default json).

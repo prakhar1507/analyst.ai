@@ -1,0 +1,24 @@
+ 4. How to identify list of companies whose tech stack is built on Python. Give names of 5 companies if possible, by your suggested approach
+
+
+ans-4 There are some tools that check the tech stack of companies and in our case we have to find out tech stack built on python.
+The tools are as following:
+
+a) BuiltWith - You just need to to enter technology name(our case python)
+and it will give the list of all the company using tech stack built on Python
+
+b) Wappalyzer
+
+c) AwesomeTechStack
+
+Names of 5 companies whose tech stack is built on Python
+
+a) Google
+
+b) Dropbox
+
+c) Reddit
+
+d) Quora
+
+e) Uber

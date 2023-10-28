@@ -1,0 +1,5 @@
+5. Need to find an API, through which we can send linkedin messages to other linkedin users
+
+
+ans-5 According to my research, Linkedin or any other third party developer does not provide any publicly available APIs to send messages to other linkedin users.
+As of now messaging to other linkedin user is promoted only via Linkedin provided interface.

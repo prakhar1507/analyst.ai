@@ -1,0 +1,6 @@
+1. A developer is assigned a task to scrape 1 lakh website pages from a directory site, while scrapping he is facing such hcaptcha, which are placed to stop people from scrapping As a project Coordinator suggest ways to solve this problem
+
+
+
+ans-1 If we have given a situation that a developer is assigned a task to scrape 1 lakh website pages from a directory site, while scrapping he is facing such hcaptcha, which are placed to stop people from scrapping, 
+Tools like Selenium, Puppeteer, and Playwright can be used to automate interactions with websites, including the completion of hcaptcha challenges. 

@@ -1,0 +1,12 @@
+ 2. Our client has around 10k linkedin people profiles, he wants to know the estimated income range of these profiles. Suggest ways on how to do this?
+
+
+
+ans-2 To deal with the situation the best way is to use Linkedin official API, that will help you to access the user profile data.
+In our case 
+
+a) we first have to fetch the company name, industry type and location to estimate the income of the user.
+
+b)Now we have to do some research on the basis of average incomes for specific industries and job roles using industry reports.
+ 
+c)As of now we have collected enough to perform data analysis and visualization to find the income range of these profiles.
